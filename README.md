@@ -28,8 +28,8 @@ simple-movie-recommender/
   }
   ```
 
-  * Similarity is computed by set intersection of movie titles (case-insensitive).
-  * If multiple users have the same similarity score, the one with lexicographically smaller name is chosen.
+* Similarity is computed by set intersection of movie titles (case-insensitive).
+* If multiple users have the same similarity score, the one with lexicographically smaller name is chosen.
  
 ## ▶️ Run
 ```bash
